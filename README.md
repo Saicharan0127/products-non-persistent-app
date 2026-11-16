@@ -1,1 +1,0 @@
-# products-non-persistent-app
